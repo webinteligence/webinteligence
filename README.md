@@ -1,5 +1,9 @@
 # 🌐 Web Intelligence Agency
 
+<p align="center">
+  <img src="assets/banner.png" alt="Web Intelligence Agency Logo" width="100%">
+</p>
+
 Bienvenue sur le GitHub officiel de **Web Intelligence Agency** 🚀  
 Nous sommes une **agence de développement web & mobile** dédiée à la création de **solutions digitales sur mesure**.
 
