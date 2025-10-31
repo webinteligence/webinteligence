@@ -30,3 +30,41 @@ Aider les entreprises, startups et entrepreneurs à **transformer leurs idées e
 ---
 
 > “Chez Web Intelligence Agency, la technologie est un moyen de révéler le potentiel des idées.”
+
+
+
+
+
+
+# 🌐 Web Intelligence Agency
+
+<p align="center">
+  <img src="assets/banner.png" alt="Web Intelligence Agency Logo" width="100%">
+</p>
+
+Welcome to the official GitHub of **Web Intelligence Agency** 🚀  
+We are a **web & mobile development agency** dedicated to building **custom digital solutions** for businesses and entrepreneurs.
+
+## 💼 What We Do
+- 🔹 Development of **modern websites** (showcase, e-commerce, web apps)  
+- 🔹 Creation of **high-performance mobile applications** (Android & iOS)  
+- 🔹 **API integrations** and custom software solutions  
+- 🔹 **Maintenance & optimization** of existing projects  
+
+## 🎯 Our Mission
+We help businesses and startups **turn their ideas into real, efficient projects** through a professional, transparent, and human approach.
+
+## 🧠 Our Values
+- 🚀 Innovation  
+- 💬 Transparent communication  
+- 🎯 Quality and performance  
+- 🤝 Long-term collaboration  
+
+## 🔗 Useful Links
+🌍 **Official Website:** [https://webintelligenceagency.com](https://webintelligenceagency.com)  
+💼 **Contact:** contact@webintelligenceagency.com  
+👨‍💻 **Founder:** [Abraham NGOM] (https://github.com/falkune)
+
+---
+
+> “At Web Intelligence Agency, technology is the tool that brings great ideas to life.”
