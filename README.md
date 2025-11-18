@@ -25,7 +25,7 @@ Aider les entreprises, startups et entrepreneurs à **transformer leurs idées e
 ## 🔗 Liens utiles
 🌍 **Site officiel :** [https://webintelligenceagency.com](https://webintelligenceagency.com)  
 💼 **Contact :** contact@webintelligenceagency.com  
-👨‍💻 **Fondateur :** [Abraham NGOM] (https://github.com/falkune)
+👨‍💻 **Fondateur :** Abraham NGOM (https://github.com/falkune)
 
 ---
 
@@ -63,7 +63,7 @@ We help businesses and startups **turn their ideas into real, efficient projects
 ## 🔗 Useful Links
 🌍 **Official Website:** [https://webintelligenceagency.com](https://webintelligenceagency.com)  
 💼 **Contact:** contact@webintelligenceagency.com  
-👨‍💻 **Founder:** [Abraham NGOM] (https://github.com/falkune)
+👨‍💻 **Founder:** Abraham NGOM (https://github.com/falkune)
 
 ---
 
